@@ -2,12 +2,6 @@
 
 #### An open source, modern, **Fluent Design-based** set of flyouts for Windows.
 
-[![Microsoft Store](https://img.shields.io/badge/Microsoft-Store-blue?style=flat&logo=microsoft)](https://www.microsoft.com/store/apps/9MT60QV066RP?ocid=badge)
-[![Github All Releases](https://img.shields.io/github/downloads/ModernFlyouts-Community/ModernFlyouts/total.svg?style=flat&logo=github)](https://github.com/ModernFlyouts-Community/ModernFlyouts/releases)
-[![GitHub release](https://img.shields.io/github/release/ModernFlyouts-Community/ModernFlyouts.svg?style=flat&logo=github)](https://github.com/ModernFlyouts-Community/ModernFlyouts/releases)
-[![Telegram](https://img.shields.io/badge/Telegram-channel-blue?style=flat&logo=telegram)](https://t.me/modernflyouts)
-[![Discord](https://discordapp.com/api/guilds/772367965307404298/widget.png)](https://discord.gg/TcYskeyaYE)
-
 
 [Overview](#overview--) • [Features](#features--) • [System Requirements](#system-requirements--%EF%B8%8F) • [Installation](#installation--%EF%B8%8F) • [Connect with us](#connect-with-us--) • [Contributing](#contributing--) • [Screenshots](#screenshots--)
 
